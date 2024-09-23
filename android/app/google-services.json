@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347165694100",
+    "project_id": "nubtk-cse",
+    "storage_bucket": "nubtk-cse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347165694100:android:dff9218bfa329b09ee7c81",
+        "android_client_info": {
+          "package_name": "com.example.nubtk_cse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvnyYL7UN7zLkFRKYmAOlO7fx_yQEVcUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
